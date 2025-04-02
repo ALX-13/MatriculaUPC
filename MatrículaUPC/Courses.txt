@@ -1,0 +1,137 @@
+16
+Algoritmos y Estructura de Datos
+CC32
+Viernes
+17:00
+19:00
+4
+Monterrico
+Presencial
+Calculo II
+CI31
+Jueves
+18:00
+21:00
+6
+San Isidro
+Virtual
+Especificacion y Analisis de Requerimientos
+SV34
+Martes
+07:00
+09:00
+4
+Villa
+Presencial
+Matematica Discreta
+MA38
+Lunes
+17:00
+20:00
+6
+San Miguel
+Virtual
+Matematica Computacional
+WV31
+Viernes
+13:00
+15:00
+6
+Monterrico
+Presencial
+Fisica I
+CI38
+Jueves
+11:00
+13:00
+6
+San Isidro
+Virtual
+Contabilidad y Presupuestos
+SX31
+Martes
+17:00
+19:00
+4
+Villa
+Presencial
+Diseno de Base de Datos
+SI40
+Viernes
+18:00
+20:00
+4
+San Miguel
+Virtual
+Diseno y Patrones de Software
+SX32
+Jueves
+20:00
+22:00
+4
+Monterrico
+Presencial
+IHC Y Tecnologias Moviles
+SI37
+Martes
+17:00
+19:00
+4
+San Isidro
+Virtual
+IIC Arts & Humanities
+G301
+Martes
+10:00
+12:00
+3
+Villa
+Presencial
+Fisica 2
+SI32
+Miercoles
+18:00
+21:00
+6
+San Miguel
+Virtual
+Redes y Comunicaciones de Datos
+SI64
+Martes
+19:00
+22:00
+4
+Monterrico
+Presencial
+Gerencia de Proyectos en Computacion
+WV81
+Jueves
+20:00
+23:00
+6
+San Isidro
+Virtual
+Aplicaciones para Dispositivos Moviles
+WV61
+Viernes
+15:00
+18:00
+4
+Villa
+Presencial
+Complejidad Algoritmica
+WS6E
+Martes
+16:00
+18:00
+4
+San Miguel
+Virtual
+ISC Matlab Basico
+G304
+Miercoles
+08:00
+10:00
+5
+Monterrico
+Presencial

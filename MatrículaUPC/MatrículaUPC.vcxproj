@@ -111,6 +111,33 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BinaryNode.h" />
+    <ClInclude Include="BinarySearchTree.h" />
+    <ClInclude Include="Course.h" />
+    <ClInclude Include="DoubleCircularLinkedList.h" />
+    <ClInclude Include="DoubleNode.h" />
+    <ClInclude Include="Enrollment.h" />
+    <ClInclude Include="HashEntity.h" />
+    <ClInclude Include="HashTable.h" />
+    <ClInclude Include="Heap.h" />
+    <ClInclude Include="HeapNode.h" />
+    <ClInclude Include="Notification.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="Resources.h" />
+    <ClInclude Include="SimpleCircularLinkedList.h" />
+    <ClInclude Include="SimpleNode.h" />
+    <ClInclude Include="Student.h" />
+    <ClInclude Include="Time.h" />
+    <ClInclude Include="Tutor.h" />
+    <ClInclude Include="UPC.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Courses.txt" />
+    <Text Include="Students.txt" />
+    <Text Include="UPCDataSet.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
